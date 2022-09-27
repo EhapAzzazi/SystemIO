@@ -1,0 +1,15 @@
+D:\New Course\SystemIO\bin\Debug\net6.0\SystemIO.exe
+D:\New Course\SystemIO\bin\Debug\net6.0\SystemIO.deps.json
+D:\New Course\SystemIO\bin\Debug\net6.0\SystemIO.runtimeconfig.json
+D:\New Course\SystemIO\bin\Debug\net6.0\SystemIO.dll
+D:\New Course\SystemIO\bin\Debug\net6.0\SystemIO.pdb
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.csproj.AssemblyReference.cache
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.AssemblyInfoInputs.cache
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.AssemblyInfo.cs
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.csproj.CoreCompileInputs.cache
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.dll
+D:\New Course\SystemIO\obj\Debug\net6.0\refint\SystemIO.dll
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.pdb
+D:\New Course\SystemIO\obj\Debug\net6.0\SystemIO.genruntimeconfig.cache
+D:\New Course\SystemIO\obj\Debug\net6.0\ref\SystemIO.dll

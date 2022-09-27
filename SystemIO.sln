@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIO", "SystemIO.csproj", "{0A6A13C7-CA08-4808-ABCC-1F51A21C97FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6A13C7-CA08-4808-ABCC-1F51A21C97FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6A13C7-CA08-4808-ABCC-1F51A21C97FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6A13C7-CA08-4808-ABCC-1F51A21C97FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6A13C7-CA08-4808-ABCC-1F51A21C97FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DF251E-669F-48C5-AE49-EC09FBBFD638}
+	EndGlobalSection
+EndGlobal
